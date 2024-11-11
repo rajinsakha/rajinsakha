@@ -25,7 +25,7 @@ I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUl
 
 - :telescope: I’m working as a Frontend Developer and building web applications utilizing React and Next JS Framework.
 
-- :zap: In my free time, I solve problems on leetcode and read tech articles.
+- :zap: In my free time, I solve problems on leetcode and build personal projects.
 
 - :mailbox:How to reach me: rajinsakha07@gmail.com
 
@@ -36,8 +36,8 @@ I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
-  <img src="icons/nextjs/nextjs-plain.svg" title="next" alt="next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="next" alt="next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
 ---
