@@ -9,7 +9,7 @@
   <a href="https://twitter.com/nishantimsna51">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-<div><img src="https://komarev.com/ghpvc/?username=nishant51&style=flat-square&color=blue" alt=""/></div>
+<div><img src="https://komarev.com/ghpvc/?username=rajinsakha&style=flat-square&color=blue" alt=""/></div>
 </div>
 
 <h1>
@@ -23,12 +23,11 @@ I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUl
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- :telescope: I’m working as a Frontend Developer and contributing to Frontned for building web applications utilizing React and Next JS Framework.
+- :telescope: I’m working as a Frontend Developer and building web applications utilizing React and Next JS Framework.
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
-- :mailbox:How to reach me: timsinanishant51@gmail.com
-
+- :mailbox:How to reach me: rajinsakha07@gmail.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -40,10 +39,6 @@ I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUl
   <img src="icons/nextjs/nextjs-plain.svg" title="next" alt="next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-
-
-
-
 </div>
 ---
 
