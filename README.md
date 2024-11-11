@@ -3,12 +3,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nishant-timsina-405134208">
+  <a href="https://www.linkedin.com/in/rajin-sakha-22003b229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/nishantimsna51">
+<!--   <a href="https://twitter.com/nishantimsna51">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 <div><img src="https://komarev.com/ghpvc/?username=rajinsakha&style=flat-square&color=blue" alt=""/></div>
 </div>
 
