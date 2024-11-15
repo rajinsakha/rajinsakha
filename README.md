@@ -22,7 +22,7 @@ I’m a passionate Frontend Developer from Nepal, constantly exploring new tools
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
--🌟 Currently mastering: React, Next.js, and modern web development practices.
+🌟 Currently mastering: React, Next.js, and modern web development practices.
 
 🚀 What I do: Build dynamic web interfaces, optimize performance, and solve challenging problems on platforms like LeetCode.
 
@@ -42,10 +42,20 @@ I’m a passionate Frontend Developer from Nepal, constantly exploring new tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
 
-### 📊 Top Used Languages:
+### 📊 My GitHub Overview:  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajinsakha&layout=compact&theme=radical" alt="Top Languages"/>
+
+  #### 🔥 GitHub Streak:
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajinsakha&theme=radical" alt="GitHub Streak" />
+
+  #### 📚 Top Used Languages:
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajinsakha&layout=compact&theme=radical" alt="Top Languages" />
+  
+  #### 🏆 GitHub Stats:
+  <img src="https://github-readme-stats.vercel.app/api?username=rajinsakha&show_icons=true&theme=radical" alt="Rajin's GitHub Stats" />
+
 </div>
+
 
 
