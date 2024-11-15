@@ -47,14 +47,11 @@ I’m a passionate Frontend Developer from Nepal, constantly exploring new tools
 <div align="left">
 
   #### 🔥 GitHub Streak:
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajinsakha&theme=radical" alt="GitHub Streak" />
+   <img src="https://streak-stats.demolab.com/?user=rajinsakha&theme=radical" alt="GitHub Streak Stats"/>
 
   #### 📚 Top Used Languages:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajinsakha&layout=compact&theme=radical" alt="Top Languages" />
   
-  #### 🏆 GitHub Stats:
-  <img src="https://github-readme-stats.vercel.app/api?username=rajinsakha&show_icons=true&theme=radical" alt="Rajin's GitHub Stats" />
-
 </div>
 
 
