@@ -12,21 +12,23 @@
 </div>
 
 <h1>
-  Hey there, Rajin Sakha! here!
+  Hey there, I'm Rajin Sakha! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### About Me :
+### 👨‍💻 About Me :
 
-I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
+I’m a passionate Frontend Developer from Nepal, constantly exploring new tools and technologies to build elegant, user-friendly web applications.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- :telescope: I’m working as a Frontend Developer and building web applications utilizing React and Next JS Framework.
+-🌟 Currently mastering: React, Next.js, and modern web development practices.
 
-- :zap: In my free time, I solve problems on leetcode and build personal projects.
+🚀 What I do: Build dynamic web interfaces, optimize performance, and solve challenging problems on platforms like LeetCode.
 
-- :mailbox:How to reach me: rajinsakha07@gmail.com
+🎯 Tech focus: Creating pixel-perfect, responsive designs that deliver great user experiences.
+
+📬 Contact me at: rajinsakha07@gmail.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -39,5 +41,8 @@ I am a Learner and tech enthusiastic <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="next" alt="next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
+
+📈 GitHub Stats:
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajinsakha&show_icons=true&theme=radical" alt="Rajin's GitHub Stats" /> </div>
 ---
 
