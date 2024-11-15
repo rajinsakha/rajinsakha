@@ -44,7 +44,7 @@ I’m a passionate Frontend Developer from Nepal, constantly exploring new tools
 
 ### 📊 My GitHub Overview:  
 
-<div align="center">
+<div align="left">
 
   #### 🔥 GitHub Streak:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajinsakha&theme=radical" alt="GitHub Streak" />
