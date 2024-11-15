@@ -42,16 +42,10 @@ I’m a passionate Frontend Developer from Nepal, constantly exploring new tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
 
-### 📊 My GitHub Overview:  
+###📚 Top Used Languages:
 
 <div align="left">
-
-  #### 🔥 GitHub Streak:
-   <img src="https://streak-stats.demolab.com/?user=rajinsakha&theme=radical" alt="GitHub Streak Stats"/>
-
-  #### 📚 Top Used Languages:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajinsakha&layout=compact&theme=radical" alt="Top Languages" />
-  
 </div>
 
 
