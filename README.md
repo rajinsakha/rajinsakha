@@ -1,3 +1,11 @@
+<style>
+  @media (max-width: 768px) {
+    .responsive-gif {
+      display: none;
+    }
+  }
+</style>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -20,7 +28,7 @@
 
 I’m a passionate Frontend Developer from Nepal, constantly exploring new tools and technologies to build elegant, user-friendly web applications.
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img class="responsive-gif" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 🌟 Currently mastering: React, Next.js, and modern web development practices.
 
