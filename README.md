@@ -26,7 +26,7 @@ I’m a passionate Frontend Developer from Nepal, constantly exploring new tools
 
 🌟 Currently mastering: React, Next.js, and modern web development practices.
 
-🚀 What I do: Build dynamic web interfaces, optimize performance, and solve challenging problems on platforms like LeetCode.
+🚀 What I do: Build dynamic web application and optimize performance.
 
 🎯 Tech focus: Creating pixel-perfect, responsive designs that deliver great user experiences.
 
