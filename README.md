@@ -21,7 +21,7 @@
 
 I'm a **Full Stack Developer** from Nepal 🇳🇵 with a strong frontend focus — I love turning ideas into elegant, high-performance web applications.
 
-- 🔭 **Currently building:** Dynamic full-stack apps with React, Next.js & Node.js
+- 🔭 **Currently building:** Dynamic full-stack apps with React, Next.js & NestJS
 - 🌱 **Leveling up in:** TypeScript, system design & backend architecture
 - 🎯 **What I care about:** Pixel-perfect UIs, responsive design & buttery-smooth UX
 - ⚡ **Fun fact:** I obsess over Lighthouse scores so users don't have to wait
@@ -49,6 +49,7 @@ I'm a **Full Stack Developer** from Nepal 🇳🇵 with a strong frontend focus 
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
